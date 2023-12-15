@@ -124,7 +124,7 @@ class BaseConfig:
     debug: Optional[bool] = None
     quiet: Optional[bool] = None
     no_print: Optional[bool] = None
-    printer_width: Optional[int] = None
+
 
     # Mutually exclusive attributes
     defer: Optional[bool] = None
