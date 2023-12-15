@@ -5,7 +5,7 @@ description = "A collection of Airflow operators, hooks, and utilities to execut
 authors = ["Tomás Farías Santana <tomas@tomasfarias.dev>"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/tomasfarias/airflow-dbt-python"
+repository = "https://github.com/driadi/airflow-dbt-python"
 classifiers = [
     "Development Status :: 5 - Production/Stable",
 
