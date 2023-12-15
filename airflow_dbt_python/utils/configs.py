@@ -262,7 +262,6 @@ class BaseConfig:
             exclude=self.warn_error_options.get("exclude", []),
         )
 
-        flags_dict["PRINTER_WIDTH"] = self.printer_width
         flags_dict["TARGET_PATH"] = None
         flags_dict["LOG_PATH"] = self.log_path
         flags_dict["LOG_FORMAT"] = self.log_format
